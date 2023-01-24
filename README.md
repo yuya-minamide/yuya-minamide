@@ -1,1 +1,69 @@
-# yuya-minamide
+### Hi there 👋
+
+As a front-end developer with a background in computer science and machine engineering, I have strong skills in HTML, CSS, JavaScript, React.js, and Next.js. I am a hard worker with good communication skills and a proven ability to problem-solve and think creatively. I am confident in my ability to create high-quality, user-friendly web experiences and am excited to bring my skills and experience to a new team.
+<br />
+<br />
+
+## 📌 Skills
+
+<p align="left"> 
+  <img alt="html5" src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
+  <img alt="css3" src="https://img.icons8.com/color/48/undefined/css3.png"/>
+  <img alt="javascript" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
+  <img alt="react" src="https://img.icons8.com/office/40/undefined/react.png"/>
+  <img alt="next" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40"/>
+  <img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img alt="material-ui" src="./image/material-ui-1.svg" width="40" height="40"/>
+  <img alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <img alt="graphql" src="https://img.icons8.com/color/48/undefined/graphql.png"/>
+  <img alt="postgresql" src="https://img.icons8.com/color/48/undefined/postgreesql.png"/>
+  <img alt="github" src="https://img.icons8.com/material-outlined/48/undefined/github.png"/>
+  <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
+</p>
+
+<br />
+<br />
+
+## Projects 💻
+
+<a href="https://github.com/yuya-minamide/weather-forecast-bot">
+ Weather forecast bot
+</a>
+<br />
+
+<a href="https://github.com/yuya-minamide/portfolio">
+ Portfolio site
+</a>
+<br />
+
+<a href="https://github.com/HidemichiShimura/cafe-drink-customizer">
+ Cafe drink customizer
+</a>
+
+<br />
+<br />
+
+## LeetCode Achievement
+
+<a href="https://leetcode.com/Yuya-Minamide/"><img src="./image/leet-code.png" alt="Buy Me A Coffee" width="250"/></a>
+
+[![LeetCode user Yuya-Minamide](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYuya-Minamide&logo=leetcode&logoColor=yellow)](https://leetcode.com/Yuya-Minamide/)
+
+<br />
+<br />
+
+## Contact Me 🤙
+
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/yuya-minamide" target="_blank"><img src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png"/></a>
+  <a href="https://www.facebook.com/people/%E5%8D%97%E5%87%BA%E9%9B%84%E5%93%89/100063647795454/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/facebook-new.png"/></a>
+  <a href="mailto:dettu1003@gmail.com"><img  src="./image/gmail.png" alt="gmail/" height="45" width="40" /></a>
+</p>
+
+<br />
+<br />
+
+## Support Me
+
+<a href="https://www.buymeacoffee.com/dettu1003" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
