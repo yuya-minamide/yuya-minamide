@@ -46,7 +46,7 @@ As a front-end developer with a background in computer science and machine engin
 
 ## LeetCode Achievement
 
-<a href="https://leetcode.com/Yuya-Minamide/"><img src="./image/leet-code.png" alt="Buy Me A Coffee" width="250"/></a>
+<a href="https://leetcode.com/Yuya-Minamide/"><img src="./image/leet-code.png" alt="leet-code" width="250"/></a>
 
 [![LeetCode user Yuya-Minamide](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYuya-Minamide&logo=leetcode&logoColor=yellow)](https://leetcode.com/Yuya-Minamide/)
 
