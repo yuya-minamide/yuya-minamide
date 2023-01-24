@@ -4,7 +4,7 @@ As a front-end developer with a background in computer science and machine engin
 <br />
 <br />
 
-## 📌 Skills
+## Skills📌
 
 <p align="left"> 
   <img alt="html5" src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
@@ -13,7 +13,6 @@ As a front-end developer with a background in computer science and machine engin
   <img alt="react" src="https://img.icons8.com/office/40/undefined/react.png"/>
   <img alt="next" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40"/>
   <img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
   <img alt="material-ui" src="./image/material-ui-1.svg" width="40" height="40"/>
   <img alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   <img alt="graphql" src="https://img.icons8.com/color/48/undefined/graphql.png"/>
@@ -44,7 +43,7 @@ As a front-end developer with a background in computer science and machine engin
 <br />
 <br />
 
-## LeetCode Achievement
+## LeetCode Achievement🏆
 
 <a href="https://leetcode.com/Yuya-Minamide/"><img src="./image/leet-code.png" alt="leet-code" width="250"/></a>
 
