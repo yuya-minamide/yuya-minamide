@@ -52,6 +52,15 @@ As a front-end developer with a background in computer science and machine engin
 <br />
 <br />
 
+## GitHub Stats🌴
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuya-minamide&count_private=true&theme=dracula&show_icons=true)](https://github.com/yuya-minamide/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuya-minamide&layout=compact&theme=dracula)](https://github.com/yuya-minamide/github-readme-stats)
+
+<br />
+<br />
+
 ## Contact Me 🤙
 
 <p align="left"> 
