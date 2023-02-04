@@ -66,7 +66,7 @@ As a front-end developer with a background in computer science and machine engin
 <p align="left"> 
   <a href="https://www.linkedin.com/in/yuya-minamide" target="_blank"><img src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png"/></a>
   <a href="https://www.facebook.com/people/%E5%8D%97%E5%87%BA%E9%9B%84%E5%93%89/100063647795454/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/facebook-new.png"/></a>
-  <a href="mailto:dettu1003@gmail.com"><img  src="./image/gmail.png" alt="gmail/" height="45" width="40" /></a>
+  <a href="mailto:yuya.minamide@gmail.com"><img  src="./image/gmail.png" alt="gmail/" height="45" width="40" /></a>
 </p>
 
 <br />
