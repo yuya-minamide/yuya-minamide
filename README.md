@@ -1,3 +1,7 @@
+<a href="https://portfolio-ltesa7sq7-yuya-minamide.vercel.app/">
+  <img src="./image/banner.jpg" alt="Yuya's GitHub Banner" style="width: 100%;">
+</a>
+
 ### Hi there 👋
 
 As a front-end developer with a background in computer science and machine engineering, I have strong skills in HTML, CSS, JavaScript, React.js, and Next.js. I am a hard worker with good communication skills and a proven ability to problem-solve and think creatively. I am confident in my ability to create high-quality, user-friendly web experiences and am excited to bring my skills and experience to a new team.
@@ -46,8 +50,6 @@ As a front-end developer with a background in computer science and machine engin
 ## LeetCode Achievement🏆
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Yuya-Minamide?ext=heatmap)
-
-[![LeetCode user Yuya-Minamide](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYuya-Minamide&logo=leetcode&logoColor=yellow)](https://leetcode.com/Yuya-Minamide/)
 
 <br />
 <br />
