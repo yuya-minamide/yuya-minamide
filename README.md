@@ -1,4 +1,4 @@
-<a href="https://portfolio-ltesa7sq7-yuya-minamide.vercel.app/">
+<a href="https://www.yuyaminamide.com/">
   <img src="./image/banner.jpg" alt="Yuya's GitHub Banner" style="width: 100%;">
 </a>
 
