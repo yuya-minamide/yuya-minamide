@@ -13,16 +13,20 @@ As a front-end developer with a background in computer science and machine engin
 <p align="left"> 
   <img alt="html5" src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
   <img alt="css3" src="https://img.icons8.com/color/48/undefined/css3.png"/>
+  <img alt="sass" src="./image/sass.png"/>
   <img alt="javascript" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
   <img alt="react" src="https://img.icons8.com/office/40/undefined/react.png"/>
   <img alt="next" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/null/typescript--v2.png"/>
   <img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
   <img alt="material-ui" src="./image/material-ui-1.svg" width="40" height="40"/>
   <img alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <img alt="styled-components" src="./image/styled-components.png" height="40" width="40" />
   <img alt="graphql" src="https://img.icons8.com/color/48/undefined/graphql.png"/>
   <img alt="postgresql" src="https://img.icons8.com/color/48/undefined/postgreesql.png"/>
   <img alt="github" src="https://img.icons8.com/material-outlined/48/undefined/github.png"/>
   <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/null/figma--v1.png"/>
 </p>
 
 <br />
