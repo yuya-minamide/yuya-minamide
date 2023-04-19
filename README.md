@@ -47,6 +47,16 @@ As a front-end developer with a background in computer science and machine engin
 <a href="https://github.com/HidemichiShimura/cafe-drink-customizer">
  Cafe drink customizer
 </a>
+<br />
+
+<a href="https://github.com/yuya-minamide/login-signup">
+ Login & Sign up system
+</a>
+<br />
+
+<a href="https://github.com/yuya-minamide/netflix-clone-app">
+ Netflix clone app
+</a>
 
 <br />
 <br />
