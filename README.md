@@ -62,6 +62,11 @@ As a front-end developer with a background in computer science and machine engin
 <a href="https://github.com/yuya-minamide/food-delivery-app">
  Food delivery app
 </a>
+<br />
+
+<a href="https://github.com/yuya-minamide/vocabulary-note">
+ Vocabulary note
+</a>
 
 <br />
 <br />
