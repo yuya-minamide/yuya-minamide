@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-As a front-end developer with a background in computer science and machine engineering, I have strong skills in HTML, CSS, JavaScript, React.js, and Next.js. I am a hard worker with good communication skills and a proven ability to problem-solve and think creatively. I am confident in my ability to create high-quality, user-friendly web experiences and am excited to bring my skills and experience to a new team.
+As a software engineer with a background in computer science and mechanical engineering, I have strong skills in Typescript, React.js, and Next.js. I am a hard worker with good communication skills and a proven ability to problem-solve and think creatively. I am confident in my ability to create high-quality, user-friendly web experiences.
 <br />
 <br />
 
@@ -19,13 +19,14 @@ As a front-end developer with a background in computer science and machine engin
   <img alt="next" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/null/typescript--v2.png"/>
   <img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img alt="python" src="https://www.python.org/static/community_logos/python-powered-h-70x91.png" width="40" height="40"/>
   <img alt="material-ui" src="./image/material-ui-1.svg" width="40" height="40"/>
   <img alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   <img alt="styled-components" src="./image/styled-components.png" height="40" width="40" />
   <img alt="graphql" src="https://img.icons8.com/color/48/undefined/graphql.png"/>
-  <img alt="postgresql" src="https://img.icons8.com/color/48/undefined/postgreesql.png"/>
+  <img alt="postgresql" src="https://img.icons8.com/color/48/undefined/postgreesql.png"/>  
   <img alt="github" src="https://img.icons8.com/material-outlined/48/undefined/github.png"/>
-  <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
+  <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="140" height="40"/> 
   <img src="https://img.icons8.com/color/48/null/figma--v1.png"/>
 </p>
 
