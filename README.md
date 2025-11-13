@@ -33,49 +33,7 @@ As a software engineer with a background in computer science and mechanical engi
 <br />
 <br />
 
-## Projects 💻
 
-<a href="https://github.com/yuya-minamide/weather-forecast-bot">
- Weather forecast bot
-</a>
-<br />
-
-<a href="https://github.com/yuya-minamide/portfolio">
- Portfolio site
-</a>
-<br />
-
-<a href="https://github.com/HidemichiShimura/cafe-drink-customizer">
- Cafe drink customizer
-</a>
-<br />
-
-<a href="https://github.com/yuya-minamide/login-signup">
- Login & Sign up system
-</a>
-<br />
-
-<a href="https://github.com/yuya-minamide/netflix-clone-app">
- Netflix clone app
-</a>
-<br />
-
-<a href="https://github.com/yuya-minamide/food-delivery-app">
- Food delivery app
-</a>
-<br />
-
-<a href="https://github.com/yuya-minamide/vocabulary-note">
- Vocabulary note
-</a>
-<br />
-
-<a href="https://github.com/yuya-minamide/snap-shot#snap-shot-">
- Snap shot(Legacy project)
-</a>
-
-<br />
-<br />
 
 ## LeetCode Achievement🏆
 
@@ -88,7 +46,6 @@ As a software engineer with a background in computer science and mechanical engi
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuya-minamide&count_private=true&theme=dracula&show_icons=true)](https://github.com/yuya-minamide/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuya-minamide&layout=compact&theme=dracula)](https://github.com/yuya-minamide/github-readme-stats)
 
 <br />
 <br />
