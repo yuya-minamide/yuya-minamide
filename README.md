@@ -36,7 +36,7 @@ I work with TypeScript and Python, contributing to both implementation and techn
 **Cloud / DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,terraform" />
   </a>
 </p>
 
