@@ -12,39 +12,39 @@ I work with TypeScript and Python, contributing to both implementation and techn
 
 ## Skills📌
 
-<p align="left"> 
-  <!-- Frontend -->
-  <img alt="html5" src="https://img.icons8.com/color/48/html-5--v1.png"/>
-  <img alt="css3" src="https://img.icons8.com/color/48/css3.png"/>
-  <img alt="sass" src="./image/sass.png"/>
-  <img alt="javascript" src="https://img.icons8.com/color/48/javascript--v1.png"/>
-  <img alt="typescript" src="https://img.icons8.com/color/48/typescript--v2.png"/>
-  <img alt="nextjs" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40"/>
-  <img alt="material-ui" src="./image/material-ui-1.svg" width="40" height="40"/>
-  <img alt="styled-components" src="./image/styled-components.png" width="40" height="40"/>
+**Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nextjs,materialui,styledcomponents" />
+  </a>
+</p>
 
-  <!-- Backend -->
-  <img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-  <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img alt="graphql" src="https://img.icons8.com/color/48/graphql.png"/>
+**Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,graphql" />
+  </a>
+</p>
 
-  <!-- Database -->
-  <img alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img alt="redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-  <img alt="prisma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40"/>
+**Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,mongodb,redis,prisma" />
+  </a>
+</p>
 
-  <!-- Cloud / DevOps -->
-  <img alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img alt="github-actions" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/>
+**Cloud / DevOps**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions" />
+  </a>
+</p>
 
-  <!-- Tools -->
-  <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
-  <img alt="github" src="https://img.icons8.com/material-outlined/48/github.png"/>
-  <img alt="figma" src="https://img.icons8.com/color/48/figma--v1.png"/>
+**Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,git,github,figma" />
+  </a>
 </p>
 
 
